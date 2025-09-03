@@ -146,7 +146,7 @@ MEDIA_ROOT = str(BASE_DIR.joinpath('media'))
 
 #CKEDITOR CONFIGS
 CKEDITOR_CONFIGS = {
-    'default_ckeditor': {
+    'default': {
         'toolbar':'Full',
     },
 }
